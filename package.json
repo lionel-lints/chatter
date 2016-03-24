@@ -1,0 +1,17 @@
+{
+  "name": "chatter",
+  "version": "1.0.0",
+  "description": "a small chat application using socket.io and express.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "lionel lints",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
